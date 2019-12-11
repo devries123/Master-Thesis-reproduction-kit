@@ -1,0 +1,4 @@
+device,subject,Battery Power* [uW] (Delta),Battery Power* [uW] (Raw)
+nexus5x,comexperimentalrvs960resourcestress,178112.3786688451,1058714.5661431542
+nexus5x,comexperimentalrvs960ioapp,289773.59362292464,1315516.910582031
+nexus5x,comexperimentalrvs960disco,86739.59184710242,846286.2305339213
