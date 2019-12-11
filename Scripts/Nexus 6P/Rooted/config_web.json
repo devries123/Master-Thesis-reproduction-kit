@@ -1,0 +1,31 @@
+{
+  "type": "web",
+  "devices": {"nexus6p": {
+    "root_disable_charging": "True",
+    "charging_disabled_value": 0,
+    "usb_charging_disabled_file": "sys/class/power_supply/battery/charging_enabled"
+}},
+  "replications": 20,
+  "duration": 0,
+  "browsers": ["firefox"],
+  "paths": [
+    "https://google.com/"
+  ],
+  "profilers":{
+ "trepn": {
+      "subject_aggregation" : "Scripts/aggregate_trepn_subject.py",
+      "sample_interval": 200,
+      "data_points": ["battery_power"]
+     }
+  },
+    "scripts": {
+      "before_run": "Scripts/before_run.py",
+      "interaction": [
+      {
+        "type": "python2",
+        "path": "Scripts/web_interaction.py"
+      }
+    ]
+  },
+  "time_between_run": 120000
+}
