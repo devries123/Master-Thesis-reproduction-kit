@@ -7,4 +7,4 @@ All the items needed to reproduce the experiment I ran for my master thesis can 
 - **Apps**: This directory contains the apps I developed for my experiment
 - **Scripts**: This directory contains all the scripts I have used for my experiment
 - **Results**: This directory contains the raw results I obtained from running the experiment
-- **Android Runner**: The version of Android Runner I used can be found here
+- **Android Runner**: The version of Android Runner I used can be found in this directory
