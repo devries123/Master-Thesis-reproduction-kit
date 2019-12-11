@@ -1,0 +1,20 @@
+{
+  "type": "native",
+  "devices": {"nexus5x": {}},
+  "replications": 20,
+  "randomization": "True",
+  "duration": 60000,
+  "apps": [
+    "com.experimental.rvs960.ioapp",
+    "com.experimental.rvs960.disco",
+    "com.experimental.rvs960.resourcestress"
+  ],
+  "profilers":{
+ "trepn": {
+      "subject_aggregation" : "Scripts/aggregate_trepn_subject.py",
+      "sample_interval": 200,
+      "data_points": ["battery_power"]
+     }
+  },
+  "time_between_run": 120000
+}
