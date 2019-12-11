@@ -1,0 +1,127 @@
+<experiment>
+  <configHash>8b3e9837667f98cb9a46b0577db82573</configHash>
+  <outputDir>/home/randy/Desktop/Experiment/nexus6p/Non-rooted/output/2019.11.05_121929/</outputDir>
+  <runsToRun/>
+  <runsDone>
+    <run runId="0">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>1</runCount>
+    </run>
+    <run runId="1">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>2</runCount>
+    </run>
+    <run runId="2">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>3</runCount>
+    </run>
+    <run runId="3">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>4</runCount>
+    </run>
+    <run runId="4">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>5</runCount>
+    </run>
+    <run runId="5">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>6</runCount>
+    </run>
+    <run runId="6">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>7</runCount>
+    </run>
+    <run runId="7">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>8</runCount>
+    </run>
+    <run runId="8">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>10</runCount>
+    </run>
+    <run runId="10">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>11</runCount>
+    </run>
+    <run runId="11">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>12</runCount>
+    </run>
+    <run runId="12">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>13</runCount>
+    </run>
+    <run runId="13">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>14</runCount>
+    </run>
+    <run runId="14">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>15</runCount>
+    </run>
+    <run runId="15">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>16</runCount>
+    </run>
+    <run runId="16">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>17</runCount>
+    </run>
+    <run runId="17">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>18</runCount>
+    </run>
+    <run runId="18">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>19</runCount>
+    </run>
+    <run runId="19">
+      <device>nexus6p</device>
+      <path>https://google.com/</path>
+      <browser>firefox</browser>
+      <runCount>20</runCount>
+    </run>
+  </runsDone>
+</experiment>
